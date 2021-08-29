@@ -7,9 +7,13 @@
 ![Redux](https://img.shields.io/badge/package-Redux-informational?style=flat&logo=Redux&logoColor=911bdc&color=911bdc)
 ![Material-UI](https://img.shields.io/badge/package-Materialui-informational?style=flat&logo=Material-UI&logoColor=269bdc&color=269bdc)
 
-## this create be student learn Redux and it Store have product
+## sample application for store, the user can see the product in department and can add the product he want to bucket
 
-## the user can see the product in department and can add the product he want to bucket.
+## DEPLOY lINK
+
+--------------------
+
+## [LIVE SERVER](https://naeemmusamh23.github.io/Store-Front/)
 
 ## Wares
 
